@@ -6,10 +6,9 @@
 - Provide recommendations to the Marketing and Sales teams on which of the 3 R,F,M metrics they should focus on in Superstore's retail model.
 ### Metric
 RFM (Recency – Frequency – Monetary) is a part of Marketing Analysis and is used to analyze customer value. It helps businesses analyze their existing customer base, allowing them to identify distinct customer groups for targeted marketing campaigns or special care.
-
-R - Recency: Last transaction time
-F - Frequency: Customer purchase frequency
-M - Monetary: Transaction amount
+- R - Recency: Last transaction time
+- F - Frequency: Customer purchase frequency
+- M - Monetary: Transaction amount
 ### Dataset
 Dataset includes 2 diffirent related tables including: Ecommerce retail and Segmentation
 * Ecommerce retail
