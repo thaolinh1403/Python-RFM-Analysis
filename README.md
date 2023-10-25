@@ -13,9 +13,13 @@ M - Monetary: Transaction amount
 ### 1.3. Dataset
 Dataset includes 2 diffirent related tables including: Ecommerce retail and Segmentation
 * Ecommerce retail
+  
   <img width="705" alt="image" src="https://github.com/thaolinh1403/Python-RFM-Analysis/assets/147386308/660d9d73-cfec-4713-8e25-5d86e335d720">
+  
   <img width="448" alt="image" src="https://github.com/thaolinh1403/Python-RFM-Analysis/assets/147386308/3794e8b6-c65c-4807-86b8-ae2d445dfedc">
+  
 * Segmentation
+  
   <img width="522" alt="image" src="https://github.com/thaolinh1403/Python-RFM-Analysis/assets/147386308/a054e089-8496-45b3-9014-69a269fc1676">
   
 
